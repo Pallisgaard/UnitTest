@@ -1,0 +1,7 @@
+c:\users\lasse\documents\visual studio 2012\Projects\UnitTesting\UnitTestProject1\bin\Debug\UnitTestProject1.dll
+c:\users\lasse\documents\visual studio 2012\Projects\UnitTesting\UnitTestProject1\bin\Debug\UnitTestProject1.pdb
+c:\users\lasse\documents\visual studio 2012\Projects\UnitTesting\UnitTestProject1\bin\Debug\UnitTesting.exe
+c:\users\lasse\documents\visual studio 2012\Projects\UnitTesting\UnitTestProject1\bin\Debug\UnitTesting.pdb
+c:\users\lasse\documents\visual studio 2012\Projects\UnitTesting\UnitTestProject1\obj\Debug\UnitTestProject1.csprojResolveAssemblyReference.cache
+c:\users\lasse\documents\visual studio 2012\Projects\UnitTesting\UnitTestProject1\obj\Debug\UnitTestProject1.dll
+c:\users\lasse\documents\visual studio 2012\Projects\UnitTesting\UnitTestProject1\obj\Debug\UnitTestProject1.pdb
